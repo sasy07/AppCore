@@ -4,4 +4,8 @@
     <Project Path="AppCore.Web/AppCore.Web.csproj" />
     <Project Path="AppCore.Win/AppCore.Win.csproj" />
   </Folder>
+  <Project Path="AppCore.Auth/AppCore.Auth.csproj" />
+  <Project Path="AppCore.BLL/AppCore.BLL.csproj" />
+  <Project Path="AppCore.DAL/AppCore.DAL.csproj" />
+  <Project Path="AppCore.Model/AppCore.Model.csproj" />
 </Solution>
