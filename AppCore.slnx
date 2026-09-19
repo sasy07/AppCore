@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/EndPoints/">
+    <Project Path="AppCore.Api/AppCore.Api.csproj" />
+    <Project Path="AppCore.Web/AppCore.Web.csproj" />
+    <Project Path="AppCore.Win/AppCore.Win.csproj" />
+  </Folder>
+</Solution>
