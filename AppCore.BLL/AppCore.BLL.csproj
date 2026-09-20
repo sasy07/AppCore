@@ -10,4 +10,8 @@
     <ProjectReference Include="..\AppCore.DAL\AppCore.DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Framework\" />
+  </ItemGroup>
+
 </Project>

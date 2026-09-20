@@ -10,4 +10,8 @@
     <ProjectReference Include="..\AppCore.BLL\AppCore.BLL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Framework\" />
+  </ItemGroup>
+
 </Project>
